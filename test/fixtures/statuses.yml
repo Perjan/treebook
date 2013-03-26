@@ -1,9 +1,22 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-
   content: MyText
+  id: 3346
+  user: perjan
 
 two:
+  content: MyText2
+  id: 3345
+  user: perjan
 
-  content: MyText
+demoStatus:
+  content: MyText2
+  id: 3333
+  user_id: 11111
+  user: perjan
+
+two:
+  content: "Hi i'm Krist"
+  id: 3347
+  user: krist
